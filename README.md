@@ -3,7 +3,7 @@ A new Flutter project.
 
 I am able to complete this project using some online sources like w3s and chatgpt.ai where it helped me creating the library folder.
 
-I have made changes is main.dart filses and 
+I have made changes is main.dart filse and pubspec.yaml file
 
 Getting Started
 In this lab we Fetch Data from the Pokémon TCG API
