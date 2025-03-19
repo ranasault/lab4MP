@@ -1,7 +1,7 @@
 pokemon_card_viewer
 A new Flutter project.
 
-I am able to complete this project using some online sources like w3s and chatgpt.ai where it helped me creating the library folder.
+I am able to complete with the help of my classmate Mannjot. and i also use some online sources like w3s and chatgpt.ai where it helped me creating the library folder.
 
 I have made changes is main.dart filse and pubspec.yaml file
 
